@@ -1,0 +1,75 @@
+Test Results
+
+Parameters:
+
+Hex Span [K] = 6.02
+Frequency [Hz] = 0.5
+CB Blow Fraction [%] = 0.45
+CB Utilization [-] = 2.17
+HB Blow Fraction [%] = 0.49
+HB Utilization [-] = 2.16
+T Amb [K] = 303.59
+
+Main Results:
+
+Cooling Capacity [W] = 12.17
+Rejected Heat [W] = 23.34
+Blows Pumping Power [W] = 0.18
+Torque Power [W] = 3.97
+Valve Power [W] = 4.98
+Total Power [W] = 9.13
+COP [-] = 1.33
+Carnot COP [-] = 50.37
+eta_2nd [%] = 0.03
+
+Flow results:
+
+CB Pressure Drop [kPa] = 11.29
+CB MFR [kg/h] = 56.54
+CB Pumping Power [W] = 0.18
+HB Pressure Drop [kPa] = 13.11
+HB MFR [kg/h] = 51.7
+HB Pumping power [W] = 0.19
+System Pressure Drop [kPa] = 74.87
+System Flow Rate [L/h] = 52.77
+System Pumping Power [W] = 1.1
+Supply Pressure [kPa] = 550.66
+Mass Imbalance [%] = -0.45
+
+Transmission and valves results:
+
+Torque [Nm] = 2.53
+CB High Valve Power [W] = 2.47
+CB Low Valve Power [W] = 2.79
+HB High Valve Power [W] = 2.79
+HB Low Valve Power [W] = 2.48
+Valve Heat gain [W] = -41.19
+
+System temperatures:
+
+DT Cold end [K] = -0.41
+T Cold Hex [K] = 303.16
+T Cold end [K] = 302.75
+T Cold in [K] = 303.27
+T Cold out [K] = 302.8
+DT Hot end [K] = 0.78
+T Hot Hex [K] = 309.18
+T Hot end [K] = 309.95
+T Hot in [K] = 309.18
+T Hot out [K] = 309.72
+T_manifold_CB [K] = 306.02
+T_CB_high_valve [K] = 304.66
+T_manifold_CB [K] = 306.01
+T_HB_high_valve [K] = 304.46
+
+Regenerator Parameters:
+
+Casing Diameter [mm] = 24.3
+Casing Length [mm] = 50
+Particle Diameter [mm] = 0.5
+Porosity [-] = 0.57
+Compactness Factor [m^2/m^3] = 5174.98
+CB Re_dp [-] = 23.72
+CB NTU [-] = 34.65
+HB Re_dp [-] = 21.68
+HB NTU [-] = 33.78
